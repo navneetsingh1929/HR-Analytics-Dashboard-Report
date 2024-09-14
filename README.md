@@ -13,75 +13,74 @@ b) To help HR professionals identify trends and factors contributing to employee
 c) To aid in decision-making regarding employee retention and workforce planning.
 
 # Project Learning
-Data Visualization: The dashboard demonstrates effective use of visual elements like bar charts, pie charts, and tables to present attrition data in a clear, understandable format. Various visualizations are used to compare attrition across categories such as job roles, education levels, salary slabs, and tenure.
+a) Data Visualization: The dashboard demonstrates effective use of visual elements like bar charts, pie charts, and tables to present attrition data in a clear, understandable format. Various visualizations are used to compare attrition across categories such as job roles, education levels, salary slabs, and tenure.
 
-Data-Driven Insights: The ability to extract insights such as the highest attrition rate within specific job roles (e.g., Laboratory Technician, Sales Executive) helps HR teams focus on areas needing attention. The analysis of salary bands and education levels further refines the insights.
+b) Data-Driven Insights: The ability to extract insights such as the highest attrition rate within specific job roles (e.g., Laboratory Technician, Sales Executive) helps HR teams focus on areas needing attention. The analysis of salary bands and education levels further refines the insights.
 
-Dashboard Design: A clean, intuitive design allows users to quickly grasp key metrics such as the total number of employees, average salary, and attrition rate. Users can also filter data by department (e.g., Human Resources, Research & Development, Sales).
+c) Dashboard Design: A clean, intuitive design allows users to quickly grasp key metrics such as the total number of employees, average salary, and attrition rate. Users can also filter data by department (e.g., Human Resources, Research & Development, Sales).
 
 # Analysis
 1. Key Metrics Overview
-
-    Total Number of Employees: 1,413
-    Total Attrition: 229 employees
-    Attrition Rate: 16.2%
-    Average Age: 37 years
-    Average Salary: 6.5K 
-    Average Years at the Company: 7 years
+  a) Total Number of Employees: 1,413
+  b) Total Attrition: 229 employees
+  c) Attrition Rate: 16.2%
+  d) Average Age: 37 years
+  e) Average Salary: 6.5K 
+  f) Average Years at the Company: 7 years
 
 These metrics provide a quick overview of the organization’s workforce and attrition statistics.
 
 2. Attrition by Education
 
-    Life Sciences: 38% of attrition
-    Medical: 25%
-    Marketing: 15%
-    Technical Degree: 14%
-    Other: 5%
+  a) Life Sciences: 38% of attrition
+  b) Medical: 25%
+  c) Marketing: 15%
+  d) Technical Degree: 14%
+  e) Other: 5%
 
 The highest attrition is seen among employees with Life Sciences backgrounds, while technical degree holders have a lower rate of attrition.
 
 3. Attrition by Age
 
-    26-35 years: The most significant attrition group (111 employees).
-    18-25 years: 43 employees.
-    36-45 years: 41 employees.
-    46-55 years: 26 employees.
-    55+ years: 8 employees.
+  a) 26-35 years: The most significant attrition group (111 employees).
+  b) 18-25 years: 43 employees.
+  c) 36-45 years: 41 employees.
+  d) 46-55 years: 26 employees.
+  e) 55+ years: 8 employees.
 
 Young to mid-career employees (ages 26-35) are experiencing the highest turnover, indicating that the company may need to focus on retention efforts for this demographic.
 
 4. Attrition by Salary Slab
 
-    Up to 5k: 158 employees.
-    5k-10k: 48 employees.
-    10k-15k: 18 employees.
-    15k+: 5 employees.
+  a) Up to 5k: 158 employees.
+  b) 5k-10k: 48 employees.
+  c) 10k-15k: 18 employees.
+  d) 15k+: 5 employees.
 
 A significant portion of attrition occurs in the lowest salary bracket, highlighting a possible correlation between lower pay and higher turnover.
 
 5. Attrition by Years at Company
 
-    0-1 years: 57 employees.
-    1-5 years: 16 employees.
-    5-10 years: 18 employees.
-    10+ years: 16 employees.
+  a) 0-1 years: 57 employees.
+  b) 1-5 years: 16 employees.
+  c) 5-10 years: 18 employees.
+  d) 10+ years: 16 employees.
 
 The highest attrition happens during the first year of employment, suggesting potential onboarding or job fit issues. However, attrition tends to stabilize after the first year.
 
 6. Attrition by Job Role
 
-    Laboratory Technicians: Highest attrition with 60 employees.
-    Sales Executive: 55 employees.
-    Research Scientist: 44 employees.
-    Sales Representative: 33 employees.
+  a) Laboratory Technicians: Highest attrition with 60 employees.
+  b) Sales Executive: 55 employees.
+  c) Research Scientist: 44 employees.
+  d) Sales Representative: 33 employees.
 
 The roles with the highest attrition are concentrated in laboratory, sales, and research functions. This could indicate specific challenges related to these job types, such as workload, job satisfaction, or external market conditions.
 
 7. Gender-Based Attrition
 
-    Male: 136 employees.
-    Female: 76 employees.
+  a) Male: 136 employees.
+  b) Female: 76 employees.
 
 Attrition is higher among males than females, though the exact percentage split is not provided. It may indicate varying factors influencing employee decisions to leave based on gender.
 
